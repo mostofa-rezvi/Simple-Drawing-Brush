@@ -6,6 +6,12 @@ A very basic web-based drawing application built using HTML, CSS, and pure JavaS
 
 This project demonstrates the fundamentals of using the HTML `<canvas>` element for drawing. It provides a clean canvas where users can draw simple black lines using their mouse.
 
+## Live Demo
+
+You can view the deployed version of the Simple Drawing Brush here:
+
+[https://mostofa-rezvi.github.io/Simple-Drawing-Brush/](https://mostofa-rezvi.github.io/Simple-Drawing-Brush/)
+
 ## Features
 
 * **Basic Drawing:** Draw lines on a canvas.
