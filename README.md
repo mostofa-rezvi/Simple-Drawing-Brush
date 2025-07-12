@@ -15,7 +15,7 @@ This project demonstrates the fundamentals of using the HTML `<canvas>` element 
 
 ## Repository Structure
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **HTML5:** Structure of the canvas and page.
 * **CSS3:** Basic styling and centering.
