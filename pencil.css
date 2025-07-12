@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #fefefe;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#paintCanvas {
+  border: 2px solid salmon;
+  border-radius: 1cm;
+  cursor: crosshair;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#clearBtn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background-color: salmon;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#clearBtn:hover {
+  background-color: darksalmon;
+}
